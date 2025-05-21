@@ -113,3 +113,38 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Banana Cream Pudding
+
+This entire recipe has been taken from [1].
+
+Ingredients:
+- 1 quart milk
+- 2 cups sugar, plus 1/4 cup sugar
+- 8 large eggs, separated, whites discarded or stored for another use
+- 1 teaspoon banana extract
+- 1/3 cup bourbon
+- 1/2 cup cornstarch
+- Salt
+- 1/2 teaspoon pure vanilla extract, plus a splash
+- 2 tablespoons butter, cut into cubes
+- 1 cup heavy cream
+- 4 large bananas, sliced
+- 1 box vanilla wafers
+- 1/3 cup creme de banana
+
+Instructions:
+1. Scald the milk, in a large sauce pot, with a pinch of the sugar (this avoids scorching the bottom of the pot).
+2. In a mixing bowl, add the egg yolks, banana extract, bourbon and 2 cups of sugar and whisk together until the mixture is a pale yellow in color and thickened.
+3. Add cornstarch and mix to combine.
+4. Very slowly pour in a little of the milk mixture, you have to do it slowly to temper the mixture, (otherwise the eggs will scramble).
+5. Once fully incorporated pour the entire mixture back into the pot and place over medium heat.
+6. Stir constantly until it comes to a simmer and the mixture thickens enough that it coats the back of a wooden spoon.
+7. Remove from heat and add a pinch of salt and vanilla extract, then add butter cubes and stir to make the mixture rich and super glossy.
+8. Transfer to a bowl and cover with plastic wrap, pressing the wrap onto the surface so it doesn't form a skin on the surface. Allow to cool.
+9. In a large bowl, using a hand mixer, whip the cream with 1/4 cup of sugar and a splash of vanilla extract until you have stiff peaks. Set aside.
+10. Slice the bananas and add to pastry cream.
+11. Line a small deep rectangular dish or a 10-inch pie dish with vanilla wafers. Splash with creme de banana then cover with banana pastry cream. Top with whipped cream and refrigerate until ready to serve.
+
+References:
+[1] T. Florence. “Banana Cream Pudding.” Food Network. Accessed: May 21, 2025. [Online]. Available: https://www.foodnetwork.com/recipes/tyler-florence/banana-cream-pudding-recipe-1917486
