@@ -54,7 +54,7 @@ Ingredients:
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
+- 1/4 cup grated Mozzarella cheese
 - 1 egg
 - 2 cloves garlic, minced
 - Salt and pepper to taste
@@ -62,7 +62,7 @@ Ingredients:
 
 Instructions:
 1. Cook spaghetti according to package instructions.
-2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
+2. In a mixing bowl, combine ground beef, bread crumbs, milk, Mozzarella cheese, egg, garlic, salt, and pepper.
 3. Form mixture into meatballs.
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
@@ -79,7 +79,9 @@ Ingredients:
 - 4 hamburger buns
 - Lettuce
 - Tomato
+- Onion
 - Mayonnaise
+- Sriracha Sauce
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -87,7 +89,7 @@ Instructions:
 3. Grill chicken for 5-7 minutes per side or until cooked through.
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+6. Assemble sandwiches with chicken, lettuce, tomato, onions, mayonnaise, and sriracha sauce.
 
 ## Desserts
 ### Chocolate Chip Cookies
